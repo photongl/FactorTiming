@@ -7,7 +7,7 @@ library(PerformanceAnalytics)
 # ======== Parameters ========
 returns_data <- "return_data.csv"
 factor_data <- "factor_data.csv"
-signal_data <- "signal_data_momentum.csv"
+signal_data <- "signal_data.csv"
 transaction_cost_data <- "transaction_cost_data.csv"
 ref_portfolio_data <- "ref_portfolio_data.csv"
 
